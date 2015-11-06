@@ -1,0 +1,19 @@
+ul {
+    margin-left: 100;
+    padding: 0;
+    list-style: none;
+    
+}
+
+li {
+    cursor: move;
+    width: 150px;
+    margin: 1px;
+    padding: 5px 20px;
+    font-size: 20px;
+    background-color: #D0FF00;
+}
+
+.ghost {
+    opacity: .4;
+}
